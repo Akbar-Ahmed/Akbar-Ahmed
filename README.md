@@ -10,3 +10,5 @@
 
 ---
 
+I write blog here:
+https://hashnode.com/@akbarahmed
