@@ -20,8 +20,8 @@ https://hashnode.com/@akbarahmed
 
 <p align="center">
 <a href="https://github.com/Akbar-Ahmed">
-  <img height="156em" src="https://github-readme-stats-Akbar-Ahmed.vercel.app/api?username=Akbar-Ahmed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="156em" src="https://github-readme-stats-Akbar-Ahmed.vercel.app/api/top-langs/?username=Akbar-Ahmed&layout=compact&langs_count=8&theme=dark"/>
+  <img height="156em" src="https://github-readme-stats-akbar-ahmed.vercel.app/api?username=Akbar-Ahmed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="156em" src="https://github-readme-stats-akbar-ahmed.vercel.app/api/top-langs/?username=Akbar-Ahmed&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
