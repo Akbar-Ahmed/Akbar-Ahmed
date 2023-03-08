@@ -3,9 +3,7 @@
 </div>
 
 
-#<div id="header" align="center">
-  #<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280"/>
-#</div>
+
 
  <h1 align="center">
   Hello There, I am Akbar 
