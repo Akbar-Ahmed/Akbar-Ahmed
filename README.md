@@ -1,6 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280"/>
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
+
+
+#<div id="header" align="center">
+  #<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280"/>
+#</div>
 
  <h1 align="center">
   Hello There, I am Akbar 
